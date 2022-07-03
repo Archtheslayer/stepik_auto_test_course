@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
+#Конечно, на степике не было такого ДЗ, но мне было интересно выполнить такой скрипт)
 try:
     link = "https://vk.com"
     browser = webdriver.Chrome()
